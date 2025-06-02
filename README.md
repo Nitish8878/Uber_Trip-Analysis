@@ -25,3 +25,14 @@ Fare Amount - The base fare charged for the trip before any additional fees. Thi
 Surge Fee - The extra charge applied during high-demand periods. Helps in understanding surge pricing patterns and peak-hour demand. 
 
 Vehicle-The type of Uber service used (e.g. UberX, UberXL, Uber Black). Used for analyzing vehicle demand and customer preferences. 
+
+
+TABLE LOCATION TABLE 
+
+The Location Table contains a unique LocationID for each area, mapping it to its corresponding Location name and City. This table helps in analyzing trip patterns by identifying the most frequent pickup and drop-off locations. It also supports geographic-based insights and trends in ride demand.
+ 
+LocationID-A unique identifier for each location in the dataset. It serves as a key to link locations to trips.
+
+Location - The name of the area or neighborhood where pickups and drop-offs occur.
+
+City - The city in which the location exists, helping in geographic segmentation and analysis.
