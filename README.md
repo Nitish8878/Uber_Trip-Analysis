@@ -27,7 +27,7 @@ Surge Fee - The extra charge applied during high-demand periods. Helps in unders
 Vehicle-The type of Uber service used (e.g. UberX, UberXL, Uber Black). Used for analyzing vehicle demand and customer preferences. 
 
 
-##TABLE LOCATION TABLE 
+## TABLE LOCATION TABLE 
 
 The Location Table contains a unique LocationID for each area, mapping it to its corresponding Location name and City. This table helps in analyzing trip patterns by identifying the most frequent pickup and drop-off locations. It also supports geographic-based insights and trends in ride demand.
  
