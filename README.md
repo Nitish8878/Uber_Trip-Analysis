@@ -4,7 +4,7 @@ This Uber Trip Analysis project leverages Power BI to visualize and understand p
 ## TABLE - TRIP DETAILS
 
 ## Dataset Used
-<a herf ="https://github.com/Nitish8878/Uber_Trip-Analysis/blob/main/Uber%20Trip%20Details.xlsx">Uber Trip Details</a>
+<a herf ="https://github.com/Nitish8878/Uber_Trip-Analysis/blob/main/Uber%20Trip%20Details.xlsx"> Uber Trip Details </a>
 
 The Trip Details table contains information on individual Uber rides, including trip timing, distance, fare details, and vehicle type. It helps analyze ride trends, peak hours, and revenue patterns. The Location Table maps numeric location IDs to actual area names, enabling pickup and drop-off location analysis
 Trip ID-A unique identifier assigned to each Uber trip. This helps in tracking individual rides. 
