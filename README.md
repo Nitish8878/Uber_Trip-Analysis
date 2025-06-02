@@ -1,6 +1,8 @@
 # Uber_Trip-Analysis
 This Uber Trip Analysis project leverages Power BI to visualize and understand patterns in Uber ride data. The main objective is to uncover insights into ride frequency, peak hours, popular pickup locations, and operational efficiency. By transforming raw trip data into interactive dashboards.
+
 TABLE - TRIP DETAILS
+
 The Trip Details table contains information on individual Uber rides, including trip timing, distance, fare details, and vehicle type. It helps analyze ride trends, peak hours, and revenue patterns. The Location Table maps numeric location IDs to actual area names, enabling pickup and drop-off location analysis
 Trip ID-A unique identifier assigned to each Uber trip. This helps in tracking individual rides. 
 
@@ -10,10 +12,16 @@ Drop Off Time The exact date and time when the passenger was dropped off. Used t
 
 Passenger Count - The number of passengers in the trip. Helps in understanding ride-sharing patterns and demand for different vehicle types.
 
-Trip Distance - The distance covered during the trip, typically measured in miles. Used for fare calculation, efficiency analysis, and identifying long or short trips. 
-PULocationID (Pickup Location ID) - A numerical code representing the pickup location. It is linked to a location table to get the actual name of the pickup area. 
+Trip Distance - The distance covered during the trip, typically measured in miles. Used for fare calculation, efficiency analysis, and identifying long or short trips.
+
+PULocationID (Pickup Location ID) - A numerical code representing the pickup location. It is linked to a location table to get the actual name of the pickup area.
+
 DOLocationID (Drop Off Location ID) - A numerical code representing the drop-off location. This is used for destination analysis, ride patterns, and demand forecasting. 
+
 Payment Type - The mode of payment used for the trip (e.g., credit card, cash, wallet). Helps in financial analysis and understanding customer preferences. 
+
 Fare Amount - The base fare charged for the trip before any additional fees. This is essential for revenue analysis and pricing strategy. 
+
 Surge Fee - The extra charge applied during high-demand periods. Helps in understanding surge pricing patterns and peak-hour demand. 
+
 Vehicle-The type of Uber service used (e.g. UberX, UberXL, Uber Black). Used for analyzing vehicle demand and customer preferences. 
